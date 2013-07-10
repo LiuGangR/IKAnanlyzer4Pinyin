@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/Users/r/Documents/jar/lucene-4.0.0/core/lucene-core-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/r/Documents/jar/lucene-4.0.0/analysis/smartcn/lucene-analyzers-smartcn-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/r/Documents/jar/lucene-4.0.0/analysis/common/lucene-analyzers-common-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/r/Documents/jar/lucene-4.0.0/queryparser/lucene-queryparser-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/r/Documents/RenRen/workspace/jpinyin/jpinyin-1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
