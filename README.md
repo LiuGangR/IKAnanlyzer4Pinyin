@@ -18,6 +18,9 @@ http://linliangyi2007.iteye.com ，先感谢他的贡献。
 
 其中主要使用到了PerFieldAnalyzerWrapper，它可以实现对不同field的使用不用的anaylzer。
 
-demo在sample的LuceneIndexAndSearchDemo中
+demo在sample的LuceneIndexAndSearchDemo中 连接https://github.com/LiuGangR/IKAnanlyzer4Pinyin/blob/master/src/org/wltea4pinyin/analyzer/sample/LuceneIndexAndSearchDemo.java
+
+需要的jar包 https://github.com/LiuGangR/IKAnanlyzer4Pinyin/tree/master/target
+和 https://github.com/LiuGangR/jpinyin/blob/master/jpinyin-1.0.jar
 
 我的邮箱rebricate@gmail.com
