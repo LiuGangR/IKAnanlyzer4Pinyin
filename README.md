@@ -6,7 +6,7 @@ participle to words by IKAnaylzer.
 实现了在使用IKAnaylzer分词后，把单词转换成拼音来作为索引
 
 修改了IKAnanlyzer的部分代码，使IKAnanlyzer支持了分词后再把词转换成拼音或者首字母来做索引，IKAznzylzer的作者博客，
-http://linliangyi2007.iteye.com/，先感谢他的贡献。
+http://linliangyi2007.iteye.com ，先感谢他的贡献。
 
 汉字转拼音用到了github上的 jpinyin 开源库，感谢作者，https://github.com/stuxuhai/jpinyin。
 
